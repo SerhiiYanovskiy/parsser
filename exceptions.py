@@ -1,0 +1,2 @@
+class BadToken(Exception):
+    pass

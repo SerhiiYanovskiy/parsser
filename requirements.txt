@@ -1,0 +1,13 @@
+Brotli==1.0.9
+certifi==2021.10.8
+charset-normalizer==2.0.12
+colorama==0.4.4
+git+https:/github.com/DioniS1902/Discord-S.C.U.M.git#egg=discum
+filetype==1.0.10
+idna==3.3
+requests==2.27.1
+requests-toolbelt==0.9.1
+six==1.16.0
+ua-parser==0.10.0
+urllib3==1.26.9
+websocket-client==0.59.0
